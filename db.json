@@ -1,34 +1,8 @@
 {
-	"url": ["http:\/\/10.10.132.141:8080\/ccapi\/ver100\/contents\/sd\/100CANON"],
+	"url": ["https://my-json-server.typicode.com/sdnavin/webService/100CANON"],
 	"100CANON": {
-		"url": ["http:\/\/10.10.132.141:8080\/ccapi\/ver100\/contents\/sd\/100CANON", "http:\/\/10.10.132.141:8080\/ccapi\/ver100\/contents\/sd\/100CANON"]
-	},
-
-	"posts": [{
-			"id": 1,
-			"title": "Post 1"
-		},
-		{
-			"id": 2,
-			"title": "Post 2"
-		},
-		{
-			"id": 3,
-			"title": "Post 3"
-		}
-	],
-	"comments": [{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
-		},
-		{
-			"id": 2,
-			"body": "some comment",
-			"postId": 1
-		}
-	],
-	"profile": {
-		"name": "typicode"
+		"url": ["https://cdn.fileinfo.com/img/ss/lg/jpg_44.jpg",
+                "https://i.pinimg.com/originals/f4/fe/27/f4fe270871088c241adfcc49cdf80591.jpg",
+               "https://content.thriveglobal.com/wp-content/uploads/2017/10/pexels-photo-206359.jpg"]
 	}
 }
