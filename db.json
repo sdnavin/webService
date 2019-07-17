@@ -1,1 +1,6 @@
-{"url":["http:\/\/10.10.132.141:8080\/ccapi\/ver100\/contents\/sd\/100CANON"]}
+{
+    "url":["http:\/\/10.10.132.141:8080\/ccapi\/ver100\/contents\/sd\/100CANON"],
+    "100CANON":{
+        "url":["http:\/\/10.10.132.141:8080\/ccapi\/ver100\/contents\/sd\/100CANON","http:\/\/10.10.132.141:8080\/ccapi\/ver100\/contents\/sd\/100CANON"],
+    }
+}
