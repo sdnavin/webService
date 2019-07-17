@@ -1,8 +1,11 @@
 {
-	"url": ["https://my-json-server.typicode.com/sdnavin/webService/100CANON"],
-	"100CANON": {
-		"url": ["https://cdn.fileinfo.com/img/ss/lg/jpg_44.jpg",
-                "https://i.pinimg.com/originals/f4/fe/27/f4fe270871088c241adfcc49cdf80591.jpg",
-               "https://content.thriveglobal.com/wp-content/uploads/2017/10/pexels-photo-206359.jpg"]
+	"url": {
+		"url": ["https://my-json-server.typicode.com/sdnavin/webService/100CANON"],
+		"100CANON": {
+			"url": ["https://cdn.fileinfo.com/img/ss/lg/jpg_44.jpg",
+				"https://i.pinimg.com/originals/f4/fe/27/f4fe270871088c241adfcc49cdf80591.jpg",
+				"https://content.thriveglobal.com/wp-content/uploads/2017/10/pexels-photo-206359.jpg"
+			]
+		}
 	}
 }
